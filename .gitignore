@@ -1,2 +1,4 @@
 .ftpquota
 wp-config*
+wp-content\cache\db\*
+wp-content\cache\object\*
