@@ -1,0 +1,260 @@
+<!doctype html><head
+lang="es-ES"><meta
+charset="UTF-8"><meta
+http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link
+href="//www.google-analytics.com" rel="dns-prefetch"><meta
+name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/><link
+rel="pingback" href="http://gamejamon.com/xmlrpc.php"><link
+rel='icon' id='favicon' type='image/png' href="http://gamejamon.com/wp-content/uploads/2015/12/64x64.jpg?189db0"><link
+rel='apple-touch-icon' href="http://gamejamon.com/wp-content/uploads/2015/12/64x64.jpg?189db0"><link
+rel='apple-touch-icon' sizes='76x76' href="http://gamejamon.com/wp-content/uploads/2015/12/64x64.jpg?189db0"><link
+rel='apple-touch-icon' sizes='114x114' href="http://gamejamon.com/wp-content/uploads/2015/12/64x64.jpg?189db0"><link
+rel='apple-touch-icon' sizes='144x144' href="http://gamejamon.com/wp-content/uploads/2015/12/64x64.jpg?189db0"><title> ¿En qué consiste? |  Game Jam On</title><!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js?189db0"></script><script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.min.js?189db0"></script><![endif]--><link
+rel="alternate" type="application/rss+xml" title="Game Jam On &raquo; Feed" href="http://gamejamon.com/feed/" /><link
+rel="alternate" type="application/rss+xml" title="Game Jam On &raquo; RSS de los comentarios" href="http://gamejamon.com/comments/feed/" /><script type="text/javascript">/*<![CDATA[*/window._wpemojiSettings={"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/gamejamon.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4"}};!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);/*]]>*/</script><style type="text/css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}</style><link
+rel='stylesheet' id='maha-shortcodes-o-css'  href="http://gamejamon.com/wp-content/plugins/mahacodes/css/maha-shortcodes-o.css?189db0" type='text/css' media='all' /><link
+rel='stylesheet' id='login-with-ajax-css'  href="http://gamejamon.com/wp-content/themes/Curated/plugins/login-with-ajax/widget.css?189db0" type='text/css' media='all' /><link
+rel='stylesheet' id='bbp-default-css'  href="http://gamejamon.com/wp-content/themes/Curated/css/bbpress.css?189db0" type='text/css' media='screen' /><link
+rel='stylesheet' id='contact-form-7-css'  href="http://gamejamon.com/wp-content/plugins/contact-form-7/includes/css/styles.css?189db0" type='text/css' media='all' /><link
+rel='stylesheet' id='wpclef-main-css'  href="http://gamejamon.com/wp-content/plugins/wpclef/assets/dist/css/main.min.css?189db0" type='text/css' media='all' /><link
+rel='stylesheet' id='maha-bootstrap-css'  href="http://gamejamon.com/wp-content/themes/Curated/static/css/bootstrap-responsive.css?189db0" type='text/css' media='all' /><link
+rel='stylesheet' id='maha-entypo-css'  href="http://gamejamon.com/wp-content/themes/Curated/static/css/entypo.css?189db0" type='text/css' media='all' /><link
+rel='stylesheet' id='maha-basix-css'  href="http://gamejamon.com/wp-content/themes/Curated/static/css/basix.css?189db0" type='text/css' media='all' /><link
+rel='stylesheet' id='maha-basix-r-css'  href="http://gamejamon.com/wp-content/themes/Curated/static/css/basix-responsive.css?189db0" type='text/css' media='all' /><link
+rel='stylesheet' id='maha_heading_font-css'  href='//fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C700&#038;subsets=latin%2Clatin&#038;ver=4.4' type='text/css' media='all' /><link
+rel='stylesheet' id='maha_main_font-css'  href='//fonts.googleapis.com/css?family=Electrolize%3A400&#038;subsets=latin%2Clatin&#038;ver=4.4' type='text/css' media='all' /><link
+rel='stylesheet' id='maha_content_font-css'  href='//fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C700%2C900%2C100italic%2C300italic%2C400italic%2C700italic%2C900italic&#038;subsets=latin%2Clatin&#038;ver=4.4' type='text/css' media='all' /><script type='text/javascript' src="http://gamejamon.com/wp-includes/js/jquery/jquery.js?189db0"></script><script type='text/javascript' src="http://gamejamon.com/wp-includes/js/jquery/jquery-migrate.min.js?189db0" defer='defer'></script><script type='text/javascript' src="http://gamejamon.com/wp-content/themes/Curated/plugins/login-with-ajax/login-with-ajax.js?189db0" defer='defer'></script><script type='text/javascript' src="http://gamejamon.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?189db0" defer='defer'></script><link
+rel='https://api.w.org/' href='http://gamejamon.com/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gamejamon.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gamejamon.com/wp-includes/wlwmanifest.xml?189db0" /><meta
+name="generator" content="WordPress 4.4" /><link
+rel="canonical" href="http://gamejamon.com/en-que-consiste/" /><link
+rel='shortlink' href='http://gamejamon.com/?p=45' /><link
+rel="alternate" type="application/json+oembed" href="http://gamejamon.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgamejamon.com%2Fen-que-consiste%2F" /><link
+rel="alternate" type="text/xml+oembed" href="http://gamejamon.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgamejamon.com%2Fen-que-consiste%2F&#038;format=xml" /><style type="text/css">.recentcomments
+a{display:inline !important;padding:0
+!important;margin:0
+!important}</style><style type="text/css">body,#off-canvas-body{color:#ddd;background-color:#000}b,strong{color:#fff}.meta-info .entry-author a,
+a, h1 a, h2 a, h3 a, h4 a, h5 a, h6
+a{color:#01d1fe}h1, h2, h3, h4, h5, h6, .widget_popular_post .nav-popular-post li
+a{color:#ff12a8}.wpcf7-form input[type="text"],
+.wpcf7-form input[type="password"],
+.wpcf7-form input[type="email"],
+.wpcf7-form textarea,
+.wpcf7-form
+select{padding:2px
+6px;color:#333}.wpcf7 .wpcf7-form-control-wrap input[type="checkbox"]{width:15px}span.wpcf7-list-item-label{padding-right:12px}.i-category
+a{background:#00de01}.main-logo-ads{text-align:center}#thelogo{margin-right:50px;padding-bottom:10px}</style><script>setTimeout(function(){jQuery('.off-canvas-body').css('height','auto');},300);</script></head><body
+class="page page-id-45 page-template-default unknown mh-body"><div
+id="body-maha" class="body-maha"><nav
+id="mobile-bar-sticky" role="navigation" class="mobile-bar bar-sticky"><div
+id="close-mobile-bar"><i
+class="icon-cancel"></i></div><div
+id="search-mobile-bar"><form
+action="http://gamejamon.com/" class="searchform" method="get"> <button
+class="search-button"><i
+class="icon-search"></i></button> <input
+type="text" name="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" autocomplete="off" /></form></div><ul
+id="menu-menu-principal" class="menu"><li
+class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item mh-navcat-0"><span></span><a
+href="http://gamejamon.com/en-que-consiste/">¿En qué consiste?</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><span></span><a
+href="http://gamejamon.com/donde/">¿Dónde?</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><span></span><a
+href="http://gamejamon.com/inscripcion/">¡Apúntate!</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><span></span><a
+href="http://gamejamon.com/2016-2/">UTAD2016</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><span></span><a
+href="http://gamejamon.com/flashbacks/">Flashbacks</a></li></ul> </nav><div
+id='body-background'><div
+id="off-canvas-body" class="off-canvas-body animati-on"><div
+id="top-bar-sticky" class="bar-sticky"><div
+class="top-bar"><div
+class="container"><div
+class="row"><div
+class="col-sm-12"><div
+id="top-right-nav" class="ul-nav"><ul><li><a
+target="_blank" href="http://facebook.com/gamejamon"><i
+class="icon-facebook"></i></a></li><li><a
+target="_blank" href="http://twitter.com/gamejamon"><i
+class="icon-twitter"></i></a></li><li><a
+target="_blank" href="https://www.youtube.com/user/VideoGameArmyCom"><i
+class="icon-play"></i></a></li></ul></div><nav
+id="top-nav-wrapper" class="ul-nav"><ul
+id="menu-top" class="menu"><li
+id="menu-item-77" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77 mh-navcat-0"><span></span><a
+href="http://videogamearmy.com">Video Game Army</a></li><li
+id="menu-item-78" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78 mh-navcat-0"><span></span><a
+href="https://www.u-tad.com">U-tad</a></li></ul> </nav><nav
+id="top-mobile-wrapper" class="ul-nav"><ul><li><a><i
+class="icon-menu"></i></a></li></ul> </nav></div></div></div></div></div><div
+class="main-logo-ads-wrap"><div
+class="main-logo-ads"><div
+class="container"><div
+class="row main-logo-center"><div
+class="col-sm-12"><div
+id="thelogo" class="logo the-logo-center"> <a
+href="http://gamejamon.com"> <img
+alt="Game Jam On - La hackathon del jam&oacute;n" src="http://gamejamon.com/wp-content/uploads/2015/12/top.jpg?189db0" data-retina="http://gamejamon.com/wp-content/uploads/2015/12/top.jpg" data-first="http://gamejamon.com/wp-content/uploads/2015/12/top.jpg"/> </a></div><h2 class='site-outline'>La hackathon del jam&oacute;n</h2><div
+id="main-ads" class="main-ads-center"><div
+class="vp-1170 vp-fluid"></div><div
+class="vp-970 vp-750"></div><div
+class="vp-320"></div></div></div></div></div></div></div><div
+id="main-nav-bar" class="main-nav-bar clearfix main-nav-center"><div
+id="main-search" class=" clearfix"><div
+id="con-search"><div
+class="container"><div
+class="cols-sm12"><form
+action="http://gamejamon.com/" id="main-search-form"> <span
+class="close-search-form"><i
+class="icon-cancel"></i></span> <span
+class="loading-search-result"><img
+src="http://gamejamon.com/wp-content/themes/Curated/images/loading.gif?189db0" alt=""></span> <input
+type="text" class="search-field" autocomplete="off" name="s" placeholder="Type here... and hit enter"/><div
+class="search-result"><div
+class="container search-result-content"></div></div></form></div></div></div></div><div
+class='maha-notification container'><div
+id="main-notif"></div></div><div
+class="container clearfix"></div><div
+class="container clearfix"><div
+class="row clearfix"><div
+class="col-sm-12 clearfix"><div
+id="login-nav" class="clearfix"> <a
+class="open-login-form"  title="Login" data-reveal-id="cur-login" data-animation="fade" data-dismissmodalclass="login-reveal-modal"><i
+class="icon-user"></i></a></div><div
+id="search-nav" class="search-nav clearfix"> <span
+class="open-search-form"><i
+class="icon-search"></i></span></div> <nav
+id="main-nav-wrapper" class="main-ul-nav clearfix"><div
+id="thelogosmall" class="logo"> <a
+href="http://gamejamon.com"> <img
+alt="Game Jam On - La hackathon del jam&oacute;n" src="http://gamejamon.com/wp-content/uploads/2015/11/large50.jpg?189db0" data-retina="http://gamejamon.com/wp-content/uploads/2015/12/large.jpg" data-first="http://gamejamon.com/wp-content/uploads/2015/11/large50.jpg"/> </a></div><ul
+id="menu-menu-principal-1" class="menu"><li
+id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item mh-navcat-0"><a
+href="http://gamejamon.com/en-que-consiste/">¿En qué consiste?</a><div
+class="nav-sub-wrap container"><div
+class="nsw row"></div></div></li><li
+id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><a
+href="http://gamejamon.com/donde/">¿Dónde?</a><div
+class="nav-sub-wrap container"><div
+class="nsw row"></div></div></li><li
+id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><a
+href="http://gamejamon.com/inscripcion/">¡Apúntate!</a><div
+class="nav-sub-wrap container"><div
+class="nsw row"></div></div></li><li
+id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><a
+href="http://gamejamon.com/2016-2/">UTAD2016</a><div
+class="nav-sub-wrap container"><div
+class="nsw row"></div></div></li><li
+id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><a
+href="http://gamejamon.com/flashbacks/">Flashbacks</a><div
+class="nav-sub-wrap container"><div
+class="nsw row"></div></div></li></ul> </nav></div></div></div></div><div
+class="page-wrapper"><div
+class="mh-el page-sidebar page-default"><div
+class="container"><div
+class="row"><div
+class="col-sm-12"><div
+class="main-content" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog"><div
+class="maha-crumbs" hidden prefix="v: http://rdf.data-vocabulary.org/#"><span
+typeof="v:Breadcrumb"><a
+href="http://gamejamon.com/"  rel="v:url" property="v:title">Home</a></span> <i
+class="icon-right-open-mini"></i> <span
+typeof="v:Breadcrumb" ><span
+class="breadcrumb_last" property="v:title">¿En qué consiste?</span></span></div> <article
+id="post-2729" class="main-content single-post-box" itemscope="" itemtype="http://schema.org/Article"> <header> </header><div
+class="text-content"><div
+class="row mhrow"><div
+class="col-sm-6"></p><p><strong>¿En qué consiste?</strong></p><p>Una Game Jam es una Hackathon de videojuegos. Una maratón de programación, creatividad, arte y pasión. A las 17:00 se hará pública la temática única que puede ser una frase, un sonido, una imagen&#8230; y a partir de entonces arranca una carrera contrarreloj para estrujaros vuestras neuronas.</p><p>Serán 48h para entregar un juego completo, subirlo a la Global Game Jam y que el mundo lo conozca.</p><p>En el mundo de los videojuegos el concepto de <strong>Game Jam</strong> se asocia genéricamente a una competición de 24, 48 ó 72h, donde los participantes forman equipos según su disciplina y habilidades para conseguir crear el mejor videojuego exprés.</p><p>Las dos Game Jam más conocidas por historia y número de participantes simultáneos en todo el planeta son la <strong>Global Game Jam</strong> y la <strong>Ludum Dare Jam</strong>.</p><p><span
+style="line-height: 1.5;"></div></span></p><div
+class="col-sm-6"></p><p><img
+class="alignnone size-full wp-image-98" src="http://gamejamon.com/wp-content/uploads/2015/12/final.jpg?189db0" alt="final" width="600" height="347" srcset="http://gamejamon.com/wp-content/uploads/2015/12/final-300x174.jpg 300w, http://gamejamon.com/wp-content/uploads/2015/12/final-300x174@2x.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></p><p></div><p></div><div
+class="row mhrow"><div
+class="col-sm-4"></p><p><img
+class="size-full wp-image-91 alignnone" src="http://gamejamon.com/wp-content/uploads/2015/12/logo.png?189db0" alt="logo" width="388" height="69" srcset="http://gamejamon.com/wp-content/uploads/2015/12/logo-300x53.png 300w, http://gamejamon.com/wp-content/uploads/2015/12/logo.png 388w" sizes="(max-width: 388px) 100vw, 388px" /></p><p></div><div
+class="col-sm-8"></p><p><strong>Ludum Dare Jam</strong></p><p>Es una competición <strong>online</strong> que se repite <strong>cada 4 meses. </strong>Semanas antes del arranque se abre la recepción de temas y una vez cerrada van votándose hasta dar con el tema definitivo al arranque con el que se podrá competir en dos modalidades:</p><ul><li><strong>Modo compo:</strong> La modalidad para valientes. 48h tú sólo. Absolutamente desde cero.</li><li><strong>Modo Jam:</strong> La modalidad más tradicional. 72h en equipo y utilizando la base y los recursos propios o de terceros que veas necesarios.</li></ul><p></div><p></div><p><strong><div
+class="row mhrow"></strong></p><div
+class="col-sm-4"><p><span
+style="line-height: 1.5;"><img
+class="wp-image-92 size-full alignnone" src="http://gamejamon.com/wp-content/uploads/2015/12/logo-1-e1450679729390.png?189db0" alt="logo" width="388" height="83" /></span></p><p><span
+style="line-height: 1.5;"></div></span></p><div
+class="col-sm-8"><p><span
+style="line-height: 1.5;"><strong>Global Game Jam</strong></span></p><p><span
+style="line-height: 1.5;">Es una competición <strong>anual y persencial. </strong>Más de 500 sedes a nivel mundial se dan cita para desarrollar un videojuego en 48h. Se puede participar solo o por equipos aunque el verdadero espíritu es ofrecer tus skills y formar parte de un nuevo equipo multidisciplinar. En tema es sorpresa y elegido por la organización que lo comunica a todo el planeta de forma simultánea.</div></span></p><p><strong></div> </strong></p></div></article></div></div></div></div></div></div> <footer
+id="footer"><div
+id="footer-sidebar"><div
+class="container"><div
+class="row"><div
+class="col-sm-4"></div><div
+class="col-sm-4"></div><div
+class="col-sm-4"></div></div></div></div><div
+class="f-copyright"><div
+class="container"><div
+class="row"><div
+class="col-sm-8"> © Copyright 2016. Powered by <a
+href="http://videogamearmy.com">Video Game Army</a>.</div><div
+class="col-sm-4"> <nav> </nav></div></div></div></div></footer></div></div><div
+id="scrolltop"> <a><i
+class="icon-up-open-big"></i></a></div></div><script type='text/javascript' src="http://gamejamon.com/wp-content/plugins/mahacodes/js/maha-tabs-toggles.js?189db0" defer='defer'></script><script type='text/javascript' src="http://gamejamon.com/wp-content/plugins/bbpress/templates/default/js/editor.js?189db0" defer='defer'></script><script type='text/javascript' src="http://gamejamon.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?189db0" defer='defer'></script><script type='text/javascript'>var _wpcf7={"loaderUrl":"http:\/\/gamejamon.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Enviando...","cached":"1"};</script><script type='text/javascript' src="http://gamejamon.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?189db0" defer='defer'></script><script type='text/javascript' src="http://gamejamon.com/wp-content/themes/Curated/static/js/main.js?189db0"></script><script type='text/javascript'>var MahaAjax={"ajaxurl":"http:\/\/gamejamon.com\/wp-admin\/admin-ajax.php"};</script><script type='text/javascript' src="http://gamejamon.com/wp-content/themes/Curated/static/js/basix.js?189db0" defer='defer'></script><script type='text/javascript' src="http://gamejamon.com/wp-content/themes/Curated/static/js/add_to_cart.js?189db0" defer='defer'></script><script type='text/javascript' src="http://gamejamon.com/wp-includes/js/comment-reply.min.js?189db0" defer='defer'></script><script type='text/javascript' src="http://gamejamon.com/wp-includes/js/wp-embed.min.js?189db0" defer='defer'></script><style>@media (min-width: 769px){#top-bar-sticky{display:inherit}}.mobile-bar ul li, .main-ul-nav ul li
+a{font-family:'Electrolize',Arial,sans-serif;font-weight:400;font-style:}.ul-nav ul li.current-menu-ancestor a, .ul-nav ul li.current-menu-parent a, .ul-nav ul li.current_page_parent a, .ul-nav ul li.current-menu-item a, .ul-nav ul li:hover
+a{-webkit-box-shadow:0 -3px 0 #ff10a4 inset;-moz-box-shadow:0 -3px 0 #ff10a4 inset;box-shadow:0 -3px 0 #ff10a4 inset}.main-ul-nav ul li.current_page_ancestor a, .main-ul-nav ul li.current_page_parent a, .main-ul-nav ul li.current-menu-parent a, .main-ul-nav ul li.current-menu-ancestor a, .main-ul-nav ul li.current-menu-item a, .main-ul-nav ul li:hover
+a{-webkit-box-shadow:0 -4px 0 #ff10a4 inset;-moz-box-shadow:0 -4px 0 #ff10a4 inset;box-shadow:0 -4px 0 #ff10a4 inset}.mobile-bar #close-mobile-bar:hover, .ul-nav ul li ul li a:hover, .ul-nav ul li ul li.current-menu-item
+a{color:#ff10a4}.pagination a.current, .bbp-pagination .pagination span.current, .content-pagination > span, .woocommerce-pagination ul li .page-numbers.current, .woocommerce .shop_table .actions .button, .woocommerce .shipping-calculator-form .button, #place_order,.maha-woo .button, .woocommerce #review_form_wrapper .form-submit #submit,.woo-button, .woo-maha ul.products li.product a.button:hover, .woo-maha div.product form.cart .button,.woo-maha .track_order input.button, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,#buddypress div.pagination .pagination-links span.current, .cart-count .shop-cart, .woocommerce .widget_price_filter .price_slider_amount
+.button{background-color:#02e4ff}.pagination a.inactive:hover,.pagination a.boundary:hover, .woocommerce-pagination ul li a.page-numbers:hover, .shop_table.order_details .order_item .product-name a, .order-number a, .order-actions a,.woo-maha label .required, .woo-maha .star-rating, .woo-maha ul.products li.product .price, .woo-maha p.stars a.star-1:after, .woo-maha p.stars a.star-2:after, .woo-maha p.stars a.star-3:after, .woo-maha p.stars a.star-4:after, .woo-maha p.stars a.star-5:after,.woo-maha div.product div.summary .product_meta .posted_in a, .woocommerce .product_list_widget li .star-rating,#buddypress div.pagination .pagination-links a:hover,
+.woo-maha .star-rating span:before, .woocommerce .product_list_widget .star-rating span:before, .bbp-pagination .pagination a:hover, .bbp-pagination .pagination a.prev:hover, .bbp-pagination .pagination a.next:hover{color:#02e4ff}.cart-count .count-arrow{border-right:5px solid #02e4ff}.rtl .cart-count .count-arrow{border-left:5px solid #02e4ff}.main-ul-nav ul li a, #cart-nav .cart-count i, #search-nav .open-search-form i, #logout-nav .open-login-form i, #login-nav .open-login-form
+i{color:#d3d3d3}#main-nav-bar{background-color:#0a0a0a}.main-nav-bar ul li
+a{-webkit-box-shadow:0 -4px 0 #0a0a0a inset;-moz-box-shadow:0 -4px 0 #0a0a0a inset;box-shadow:0 -4px 0 #0a0a0a inset}.main-ul-nav ul li .nav-sub-wrap{background-color:#0a0a0a}.main-ul-nav ul li .nav-sub-wrap ul li a, .nav-sub-posts a.entry-title, .nav-sub-posts .meta-info a,
+.nav-sub-wrap .meta-info .entry-author
+a{color:#d1d1d1}.nav-sub-posts .entry-date{color:#ddd}.main-ul-nav .nav-sub-wrap .nav-sub-menus ul li a:hover,.main-ul-nav .nav-sub-wrap .nav-sub-menus.col-sm-3 ul li a:hover{background-color:#2d2d2d}.main-ul-nav ul li .nav-sub-wrap ul li a:hover{color:#fff}.main-ul-nav .nav-sub-wrap .nav-sub-menus ul li
+a{-webkit-box-shadow:0 1px 0 #ff12a8 !important;-moz-box-shadow:0 1px 0 #ff12a8 !important;box-shadow:0 1px 0 #ff12a8 !important}#main-search-form,#con-search{background-color:#0a0a0a}#main-search-form .search-field{background-color:#0a0a0a;color:#DADADA}#main-search-form .search-field::-webkit-input-placeholder{color:#DADADA}#main-search-form .search-field:-moz-placeholder{color:#DADADA}#main-search-form .search-field::-moz-placeholder{color:#DADADA}#main-search-form .search-field:-ms-input-placeholder{color:#DADADA}.close-search-form .icon-cancel{color:#DADADA}a{color:#ddd}body, .widget_calendar tbody td,input[type="text"], input[type="password"], input[type="email"], textarea, select, #con-search, #buddypress #profile-edit-form ul.button-nav a, #buddypress form#whats-new-form textarea, #buddypress .standard-form select,
+#buddypress div.item-list-tabs#subnav ul li.feed a, #buddypress ul.item-list li div.item-title span, #buddypress ul#groups-list li .item-desc p, .bp-site-wide-message div#message p a, #sitewide-notice a, #buddypress table tr td.thread-info p.thread-excerpt,
+#buddypress div.activity-comments form
+textarea{color:#ddd}#bbpress-forums .bbp-body li.bbp-forum-topic-reply, li.bbp-topic-post, .bbp-pagination-count, #bbpress-forums div.bbp-reply-content
+.maha_bbp_author_name{color:#ddd}.woo-maha .form-row .chosen-container-single .chosen-single, .woo-maha .quantity.buttons_added > input, .woo-maha .myaccount_user, .woo-maha .myaccount_user a, .woo-maha .myaccount_user
+span{color:#ddd}#con-search .search-field,::-webkit-input-placeholder{color:#ddd !important}h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.block-cap h3, .meta-info .entry-author, .meta-info .entry-author a, .next-prev .prev i, .next-prev .next i, .next-prev .np-title,
+.meta-author .author-name a, .nf404-title, strong, .dropcap.normal, .i-divider span, .i-message-box .i-mb-title,
+.i-toggle.active, .i-toggle .toggle-nav, .i-tabs .tab-nav, .i-tabs .tab-nav li a,
+.pagination a, .content-pagination > a > span, .widget_recents .recent-item a, .widget_popular_post .nav-popular-post li a, .thumb-runtext a,
+.woocommerce .shop_table thead tr th, .woocommerce .cart_totals th, .bbp-author-name a, .bbp-section-caption, #buddypress div.item-list-tabs ul li a, #buddypress div.item-list-tabs ul li span,
+#buddypress .activity-list .new_blog_post .activity-header p a:first-child, #buddypress .activity-list .activity_update .activity-header p a:first-child,
+#buddypress .activity-header p a:first-child, #buddypress .acomment-content p a:first-child, #buddypress ul#groups-list li .item-title a, #buddypress .activity-list li.load-newest a,
+.bp-site-wide-message div#message p strong, #sitewide-notice strong, #buddypress div#message-thread #send-reply div.message-box .avatar-box strong, #buddypress div#message-thread strong a, .widget.buddypress div.item-options,
+.widget.buddypress div.item-options a, .widget.buddypress .bp-login-widget-user-links > div.bp-login-widget-user-link a, .pagination a.prev, .pagination
+a.next{color:#fff}li.bbp-forum-info .bbp-forum-title, #bbpress-forums li.bbp-header ul.forum-titles li, li.bbp-topic-title > .bbp-topic-permalink, #bbpress-forums #bbp-single-user-details #bbp-user-navigation
+a{color:#fff}.maha-progress-bar .bar,.dropcap.square,.dropcap.circle{background-color:#fff}.block-cap, .one-divider, .i-divider, .timeline-list, .widget_popular_post .nav-popular-post li, .el-featured-slide .line-divider, #buddypress .activity-list li.mini, #buddypress .activity-list li.new_blog_post .activity-content, #buddypress .activity-list li.activity_update .activity-content, #buddypress .activity-list li.activity_comment .activity-content,
+#buddypress div.activity-comments div.acomment-content, #buddypress div.item-list-tabs#subnav, #buddypress div.item-list-tabs, #buddypress ul#groups-list li, #buddypress ul#group-list li, #buddypress table#message-threads tr, #buddypress table.notification-settings tr, #buddypress table.profile-settings tr,
+#buddypress #admins-list li, #buddypress #mods-list li, #buddypress #groups-list li, #buddypress #members-list li, #buddypress div.item-list-tabs#group-create-tabs, #buddypress #create-group-form #group-create-body .radio label, #buddypress #group-settings-form .radio label,
+#buddypress #create-group-form #group-create-body .maha_bp_group_invite .radio, #buddypress #group-settings-form .maha_bp_group_invite .radio, #buddypress #members-group-list #member-list li, #buddypress .activity-list li.load-more, #buddypress .activity-list li.load-newest,
+.bp-site-wide-message div#message p, #buddypress div#message p, #sitewide-notice p, #buddypress div#message-thread div.message-box, #buddypress div#invite-list, #buddypress form.standard-form .main-column ul#friend-list > li, #buddypress div.item-list-tabs ul li a
+span{border-color:#ff12a8}#bbpress-forums ul.bbp-forums, #bbpress-forums li.bbp-body ul.forum, #bbpress-forums ul.bbp-topics .bbp-header, #bbpress-forums li.bbp-body ul.topic, #bbpress-forums div.bbp-reply-content, #bbpress-forums .bbp-reply-content ul.bbp-topic-revision-log{border-color:#ff12a8}.woo-maha table, .woo-maha th, .woo-maha td, .woo-maha #reviews #comments ol.commentlist li, .woo-maha div.product .woocommerce-tabs ul.tabs li, .woo-maha #payment ul.payment_methods, .woo-maha #payment ul.payment_methods li, .woo-maha .order_details, .woo-maha .order_details li,
+.woo-maha #woo-my-address .addresses.row address, .woo-maha .woo-customer-detail .customer_details, .woo-maha .woo-customer-detail address, .woocommerce > .product_list_widget li, .widget_shopping_cart_content, .widget_shopping_cart_content .cart_list > li, .widget_shopping_cart_content .total,
+.widget_shopping_cart_content .buttons a:first-child{border-color:#ff12a8}.next-prev .prev:last-child{-webkit-box-shadow:-1px 0px 0 #ff12a8 inset;-moz-box-shadow:-1px 0px 0 #ff12a8 inset;box-shadow:-1px 0px 0 #ff12a8 inset}@media (max-width: 767px){.next-prev
+a{-webkit-box-shadow:0px -1px 0 #ff12a8 inset;-moz-box-shadow:0px -1px 0 #ff12a8 inset;box-shadow:0px -1px 0 #ff12a8 inset}}input[type="text"], input[type="password"], input[type="email"], textarea, select, #buddypress div.activity-comments form .ac-textarea, #buddypress .friend-tab{border-color:#02e4ff}.bbp-forum-form div.wp-editor-container, #bbp-search-form div, #bbpress-forums div.wp-editor-container, .bbp-reply-form div.wp-editor-container, #bbpress-forums #bbp-your-profile fieldset input, #bbpress-forums #bbp-your-profile fieldset
+textarea{border-color:#02e4ff}.woo-maha .quantity .minus, .woo-maha .quantity .plus, .woo-maha .quantity input.qty, .woo-maha p.stars span > a, .woo-maha .form-row .chosen-container-single .chosen-single, .widget_product_search form
+div{border-color:#02e4ff}.widget_calendar tbody td, .woo-maha .shop_table thead tr, .woo-maha tr:nth-child(2n), .woo-maha #woo-my-address .addresses.row address, .woo-maha .woo-customer-detail .customer_details, .woo-maha .woo-customer-detail address, .woo-maha ul.order_details,
+#bbpress-forums li.bbp-header{background-color:#000}.meta-author .author-thumb img, .meta-info .ava-auth img, .comment-list li.comment > div
+img.avatar{-webkit-border-radius:80px;-moz-border-radius:80px;-ms-border-radius:80px;-o-border-radius:80px;border-radius:80px}</style><div
+id="cur-modal"><div
+id="cur-remember" class="reveal-modal"><form
+class="lwa-form" action="http://gamejamon.com/wp4dmin/?action=lostpassword" method="post"><h3>PASSWORD RESET</h3> <span
+class="lwa-status"></span> <input
+placeholder="email" type="text" name="user_login" class="lwa-user-remember" value="" /><div
+class="cur-btn"> <input
+type="submit" value="Get New Password" class="lwa-button-remember i-button dark medium" /> <input
+type="hidden" name="login-with-ajax" value="remember" /></div><div
+class="col-sm-4 tright"> <a
+class="remember-modal-closer"  title="Login" data-reveal-id="cur-login" data-animation="fade">Back to Login</a></div></form></div><div
+id="cur-login" class="reveal-modal"><form
+name="lwa-form" class="lwa-form" action="http://gamejamon.com/wp4dmin/" method="post"><h3>LOG IN</h3> <span
+class="lwa-status"></span> <input
+type="text" name="log" id="lwa_user_login" class="input" placeholder="username" tabindex="111" /><br> <input
+type="password" name="pwd" id="lwa_user_pass" class="input" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;&bull;" tabindex="112" /><br><div
+class="cur-btn"> <input
+type="submit" class="i-button dark medium" name="wp-submit" id="lwa_wp-submit" value="Log In" tabindex="113" /> <input
+type="hidden" name="lwa_profile_link" value="0" /> <input
+type="hidden" name="login-with-ajax" value="login" /></div><div
+class="col-sm-4 tleft"><a
+class="lwa-links-remember login-modal-closer" data-reveal-id="cur-remember" data-animation="fade" data-dismissmodalclass="remember-reveal-modal" title="Password Lost and Found">Forgot Password</a></div></form></div></div></body></html>
